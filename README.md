@@ -1,1 +1,2 @@
 # My-portfolio-website
+Welcome to my personal portfolio website! I'm Karan Singh Ranawat, a passionate and creative web developer dedicated to crafting clean, user-friendly, and responsive websites. This portfolio showcases my skills in front-end and back-end development, UI/UX design, and real-world projects. Whether you're here to view my work, collaborate on a project, or just explore what I do—thank you for visiting!
